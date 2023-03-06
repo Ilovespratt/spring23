@@ -15,5 +15,27 @@ padding-left: 120px;
 background-image: url(images/header-image-1.gif);
 background-position: left top;
 background-repeat: no-repeat;
+}
 
+#container{
+    margin: 30px
+}
+
+nav ul {
+padding:0;
+margin 0;
+list-style-type:none;
+color: #7C1A00;
+}
+
+nav li{
+    margin: 10px;
+    border-width: 1px;
+border-style: solid;
+border-color: #7C1A00;
+background-color: #ffe597;
+}
+
+nav a {
+background-color: #7C1A00;
 }
