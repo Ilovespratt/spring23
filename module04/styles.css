@@ -44,3 +44,13 @@ color: white;
     text-decoration: none;
 }
 
+nav a:hover{
+    background-color: #7C1A00;
+}
+
+#content{
+    background-image: trans-bg.gif;
+    border: 1px;
+    margin-left:100px;
+    padding:10px;
+}
